@@ -84,17 +84,6 @@ class TimerAppState extends State<TimerApp> {
                   },
                 ),
               ),
-              /* Container(
-                margin: EdgeInsets.only(top: 10),
-                child: RaisedButton(
-                  child: Text('RESET'),
-                  onPressed: () {
-                    setState(() {
-                      unActive = ! unActive;
-                    });
-                  },
-                ),
-              )*/
             ],
           ),
         ),
